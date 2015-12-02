@@ -1,5 +1,4 @@
 This is a forked project in hopes of performing the following:
-- Prevent redrawing of the older tableviewrows
 - Try to create an onStart event
 
 
